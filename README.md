@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm HongLYe 👋
 
-<!--
-**HongLYe/HongLYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Currently focusing on:** AI-assisted development
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Python, JavaScript, HTML
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [FPV Drone Controller](https://github.com/HongLYe/FPV-Drone-Controller-by-phone) | Control FPV drones via phone | HTML |
+| [YouTube Downloader](https://github.com/HongLYe/youtube-downloader) | Download videos from YouTube | Python |
+
+## 📬 Let's Connect
+- [GitHub](https://github.com/HongLYe)
+- Feel free to reach out for collaboration!
+
+*Last updated: May 2026*
